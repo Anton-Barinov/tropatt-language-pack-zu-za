@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'loading' => 'Iyalayisha...',
+  'load_error' => 'inapakia hitilafu',
+  'empty' => 'Kiswahili: No saved views',
+  'pinned' => 'Kiswahili: Pinned',
+  'other' => 'Kiswahili: Others',
+  'system' => 'Kiswahili: System',
+  'public' => 'Kiswahili: Public',
+  'private' => 'Kiswahili: Private',
+  'pin' => 'Kiswahili: Pin',
+  'unpin' => 'Kiswahili: Unpin',
+  'duplicate' => 'Kiswahili: Duplicate',
+  'edit' => 'Hlela',
+  'archive' => 'Kiswahili: Archive',
+  'applied' => 'tazama applied: ',
+  'apply_error' => 'hitilafu applying tazama',
+  'save_as' => 'hifadhi as mpya tazama',
+  'edit_title' => 'hariri tazama',
+  'title_required' => 'Enter a tazama jina',
+  'update_error' => 'hitilafu updating tazama',
+  'create_error' => 'hitilafu creating tazama',
+  'pinned_msg' => 'Kiswahili: Pinned',
+  'unpinned_msg' => 'Kiswahili: Unpinned',
+  'pin_error' => 'hitilafu',
+  'duplicated' => 'tazama duplicated',
+  'duplicate_error' => 'hitilafu duplicating',
+  'confirm_archive' => 'Archive this tazama?',
+  'archived' => 'tazama archived',
+  'archive_error' => 'hitilafu archiving',
+);

@@ -1,0 +1,32 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'widgets' => 'Ideshibhodi widgets',
+  'widgets_saved' => 'Ideshibhodi widgets updated',
+  'widgets_required' => 'Widgets list is inahitajika',
+  'summary' => 'Ideshibhodi summary',
+  'sticky_notes_title' => 'Kiswahili: Sticky Notes',
+  'sticky_notes_loading' => 'inapakia notes...',
+  'sticky_notes_error' => 'imeshindwa to load notes',
+  'sticky_notes_empty' => 'Kiswahili: No notes yet',
+  'sticky_notes_add' => '+ ongeza note',
+  'sticky_notes_pin' => 'Kiswahili: Pin',
+  'sticky_notes_unpin' => 'Kiswahili: Unpin',
+  'sticky_notes_archive' => 'Kiswahili: Archive',
+  'sticky_notes_archive_confirm' => 'Kiswahili: Archive note?',
+  'sticky_notes_content_required' => 'Kiswahili: Enter note text',
+  'sticky_notes_saved' => 'Kiswahili: Note updated',
+  'sticky_notes_save_error' => 'hifadhi hitilafu',
+  'sticky_notes_update_error' => 's sasisha hitilafu',
+  'sticky_notes_archived' => 'Kiswahili: Note archived',
+  'sticky_notes_archive_error' => 'Archive hitilafu',
+  'sticky_notes_create_title' => 'mpya note',
+  'sticky_notes_content_label' => 'Kiswahili: Note text',
+  'sticky_notes_placeholder' => 'andika a note...',
+  'sticky_notes_color_label' => 'Kiswahili: Colour',
+  'sticky_notes_created' => 'Kiswahili: Note created',
+  'sticky_notes_create_error' => 'Creation hitilafu',
+  'insights' => 'Ideshibhodi widget metrics',
+  'insights_unknown_widget' => 'Unknown Ideshibhodi widget',
+);

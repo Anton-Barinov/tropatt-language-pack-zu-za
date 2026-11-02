@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'list' => 'Kiswahili: Workflow rules list',
+  'created' => 'Kiswahili: Workflow rule created',
+  'detail' => 'Kiswahili: Workflow rule details',
+  'updated' => 'Kiswahili: Workflow rule updated',
+  'deleted' => 'Kiswahili: Workflow rule deleted',
+  'test_run' => 'Test run imekamilika',
+  'runs' => 'Kiswahili: Workflow runs list',
+  'not_found' => 'Kiswahili: Workflow rule not found',
+  'invalid_trigger_code' => 'Kiswahili: Invalid trigger_code',
+  'invalid_action_code' => 'Kiswahili: Invalid action_code',
+  'payload_object' => 'Kiswahili: Payload must be an object',
+  'max_255' => 'Kiswahili: Maximum 255 characters',
+  'action_no_task_or_assignee' => 'No kazi au Owabelwe selected',
+  'action_no_task_or_status' => 'No kazi au mpya hali selected',
+  'default_notification_title' => 'Automation arifa',
+  'action_no_notification_recipient' => 'No arifa recipient selected',
+  'action_no_task_or_comment' => 'No kazi au comment text selected',
+  'action_no_user_for_reminder' => 'No mtumiaji selected for reminder',
+  'action_no_follow_up_title' => 'Follow-up kazi kichwa not specified',
+  'action_invalid_webhook_url' => 'Provide a valid http/https webhook URL',
+  'action_no_task_for_sla' => 'No kazi selected for SLA',
+  'action_no_manager' => 'No manager found for  executor',
+  'manager_notification_title' => 'Long kazi without a break',
+  'manager_notification_body' => '{user}: {total} minutes logged on  kazi «{task}» on {day} (threshold {threshold} minutes).',
+  'test_task_title' => 'Test kazi',
+  'follow_up_description' => 'Created by automation rule from kazi',
+  'follow_up_prefix' => 'Kiswahili: Follow-up: ',
+  'unknown_action' => 'Kiswahili: Unknown action: ',
+);

@@ -1,0 +1,16 @@
+{
+    "type": "language_pack",
+    "name": "language-pack-zu-za",
+    "full_code": "crm.language-pack-zu-za",
+    "vendor": "crm",
+    "code": "zu-za",
+    "title": "Zulu Language Pack (isiZulu)",
+    "native_name": "isiZulu",
+    "direction": "ltr",
+    "author": "Anton Barinov",
+    "version": "1.0.0",
+    "category": "localization",
+    "min_crm_version": "20260928.001",
+    "description": "Iphakheji ephelele yolimi lwesiZulu ye-TropaTT CRM.",
+    "signature": "87c9433af3553e641eb3b7c7665e4628bbbbbca8895fd9c11c10b19fad11c32f"
+}

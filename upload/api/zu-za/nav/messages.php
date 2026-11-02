@@ -1,0 +1,31 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'dashboard' => 'Ideshibhodi',
+  'ideas' => 'Kiswahili: Ideas',
+  'tasks' => 'Imisebenzi',
+  'day' => 'Kiswahili: My day',
+  'week' => 'Kiswahili: My week',
+  'kanban' => 'Kiswahili: Kanban',
+  'gantt' => 'Kiswahili: Gantt',
+  'projects' => 'Amaphrojekthi',
+  'calendar' => 'Ikhalenda',
+  'counterparties' => 'Kiswahili: Counterparties',
+  'teams' => 'Amaqembu',
+  'knowledge' => 'Isizindalwazi solwazi',
+  'analytics' => 'Kiswahili: Analytics',
+  'notifications' => 'Izaziso',
+  'admin' => 'Kiswahili: Administration',
+  'intake' => 'Kiswahili: Intake',
+  'cycles' => 'Kiswahili: Cycles (Sprints)',
+  'project_modules' => 'mradi Modules',
+  'admin_estimates' => 'kazi Estimates',
+  'admin_modules' => 'Kiswahili: Modules',
+  'chat' => 'Kiswahili: Chats',
+  'docs' => 'Kiswahili: Documentation',
+  'api' => 'Kiswahili: Documentation',
+  'my_earnings' => 'Kiswahili: My earnings',
+  'rate_cards' => 'Kiswahili: Rate cards',
+  'menu_loaded' => 'Kiswahili: Menu loaded',
+);

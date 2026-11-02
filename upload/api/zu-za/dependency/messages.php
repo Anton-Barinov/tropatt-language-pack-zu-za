@@ -1,0 +1,31 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'list' => 'Kiswahili: Dependency list',
+  'created' => 'Kiswahili: Dependency created',
+  'deleted' => 'Kiswahili: Dependency deleted',
+  'not_found' => 'Kiswahili: Dependency not found',
+  'task_not_found' => 'One of  kazi was not found',
+  'invalid_type' => 'Kiswahili: Invalid dependency type',
+  'supported_types' => 'Supported: FS, SS, FF, SF, BLOCKS',
+  'self_forbidden' => 'kazi cannot depend on itself',
+  'different_projects' => 'Dependencies can only be created between kazi in  same mradi',
+  'empty' => 'Kiswahili: No dependencies',
+  'th_type' => 'Kiswahili: Type',
+  'th_task' => 'kazi',
+  'btn_delete' => 'Susa',
+  'load_error' => 'imeshindwa to load dependencies',
+  'prompt_task_id' => 'kazi ID (public_id)',
+  'task_id_empty' => 'kazi ID cannot be empty',
+  'prompt_dep_type' => 'Dependency type (FS, SS, FF, SF)',
+  'created_notify' => 'Kiswahili: Dependency added',
+  'confirm_delete' => 'futa dependency?',
+  'deleted_notify' => 'Kiswahili: Dependency deleted',
+  'type_fs' => 'Kiswahili: Finish-Start',
+  'type_ss' => 'Kiswahili: Start-Start',
+  'type_ff' => 'Kiswahili: Finish-Finish',
+  'type_sf' => 'Kiswahili: Start-Finish',
+  'type_blocks' => 'Kiswahili: Blocks',
+  'cyclic_dependency' => 'Dependency would unda a cycle between kazi',
+);

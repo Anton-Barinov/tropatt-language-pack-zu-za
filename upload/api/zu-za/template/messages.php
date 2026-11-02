@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'task_list' => 'kazi template list',
+  'task_created' => 'kazi template created',
+  'task_detail' => 'kazi template',
+  'task_updated' => 'kazi template updated',
+  'task_deleted' => 'kazi template deleted',
+  'project_list' => 'mradi template list',
+  'project_created' => 'mradi template created',
+  'project_detail' => 'mradi template',
+  'project_updated' => 'mradi template updated',
+  'project_deleted' => 'mradi template deleted',
+  'max_255' => 'Kiswahili: Maximum 255 characters',
+  'payload_object' => 'Kiswahili: payload field must be an object',
+  'not_found' => 'Kiswahili: Template not found',
+  'empty_tasks' => 'No kazi templates',
+  'empty_projects' => 'No mradi templates',
+  'load_error_tasks' => 'imeshindwa to load kazi templates',
+  'load_error_projects' => 'imeshindwa to load mradi templates',
+  'btn_delete' => 'Susa',
+  'created_task_notify' => 'kazi template created',
+  'created_project_notify' => 'mradi template created',
+  'error_create' => 'unda hitilafu',
+  'confirm_delete_task' => 'futa kazi template?',
+  'confirm_delete_project' => 'futa mradi template?',
+  'deleted_task_notify' => 'kazi template deleted',
+  'deleted_project_notify' => 'mradi template deleted',
+  'error_delete' => 'futa hitilafu',
+  'task_applied' => 'kazi created from template',
+  'project_applied' => 'mradi created from template',
+);
